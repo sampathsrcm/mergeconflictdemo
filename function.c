@@ -4,4 +4,8 @@ main()
   {
     //initial changes
   }
+  Function2()
+  {
+   //DeveloperA changes
+  }
 }
